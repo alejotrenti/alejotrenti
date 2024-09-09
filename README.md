@@ -2,7 +2,6 @@
   <h1 align="center">
     Hola ¿Que tal?, soy <a href="https://alejotrenti.vercel.app/">Alejo</a> 👋
   </h1>
-</div>
 
 <img src="https://wallpapercave.com/wp/wp11822394.jpg" >
 
@@ -27,7 +26,6 @@ Soy de Argentina, y me encanta aprender tecnologías y cosas nuevas.
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-<div align="center">
+<br><br><br><br><br>
   [![Alejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejotrenti&theme=blue_navy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
