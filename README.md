@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/alee.trenti/)
 ## Sobre mi
 
-Gusto en conocerte!, soy un casi técnico de informática, actualmente aprendiendo dia a dia sobre desarrollo de software, desarrollo web, etc.
+Gusto en conocerte!, soy un técnico de informática, actualmente en licenciatura de ciencia de datos, aprendiendo dia a dia sobre desarrollo de software, desarrollo web, etc.
 
 Soy un apasionado al momento de resolver problemas, tratando de no perder la cabeza encontrando soluciones, todas gracias a conceptos básicos de Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc.
 
