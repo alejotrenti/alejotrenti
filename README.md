@@ -1,7 +1,9 @@
 <div align="center">
   <h1 align="center">
-    Hola ¿Que tal?, soy <a href="https://alejotrenti.vercel.app/">Alejo</a> 👋
+    Hola ¿Que tal?, soy <a href="https://alejo-trenti.vercel.app/">Alejo</a> 👋
   </h1>
+ <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Web+Development;Python+%7C+R+%7C+Machine+Learning;Building+projects+with+real+data+🚀" />
 
 <img src="https://wallpapercave.com/wp/wp11822394.jpg" >
 
@@ -9,23 +11,64 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/alee.trenti/)
 ## Sobre mi
 
-Gusto en conocerte!, soy un técnico de informática, actualmente en licenciatura de ciencia de datos, aprendiendo dia a dia sobre desarrollo de software, desarrollo web, etc.
 
-Soy un apasionado al momento de resolver problemas, tratando de no perder la cabeza encontrando soluciones, todas gracias a conceptos básicos de Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc.
+Soy técnico en informática y estudiante de Licenciatura en Ciencia de Datos en Argentina 🇦🇷.  
+Me enfoco en construir soluciones que combinan **desarrollo web + análisis de datos + automatización**.
+
+Me gusta resolver problemas reales usando datos, desde el scraping hasta la visualización y despliegue de aplicaciones.  
+Disfruto trabajar en proyectos donde puedo **analizar, construir y mostrar resultados de forma clara y útil**.
 
 Soy de Argentina, y me encanta aprender tecnologías y cosas nuevas. 
 
-### Lenguajes y herramientas:
+## 🧠 Data Science & AI Skills
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<br><br><br><br><br>
+- 📊 Análisis de datos con **Python (Pandas, NumPy) y R**
+- 📈 Visualización de datos (**Matplotlib, D3.js, ggplot2**)
+- 🧹 Limpieza y procesamiento de datasets
+- 🌐 Web Scraping (**Selenium, automatización de datos**)
+- 🗄️ Manejo de bases de datos (**SQL, MongoDB**)
+- ⚙️ Creación de APIs (**FastAPI, Node.js**)
+- 🚀 Deploy de aplicaciones (**Vercel, AWS, Uvicorn**)
+- 📊 Desarrollo de dashboards interactivos (**Streamlit**)
+- 📦 Manejo de datasets reales y pipelines de datos
+- 🧠 Fundamentos de Machine Learning (en progreso)
+- 📉 Exploratory Data Analysis (EDA)
+
+---
+
+## 💻 Desarrollo & Tecnologías
+
+- 🌐 Frontend: **React, Next.js, Tailwind CSS**
+- 🧩 Backend: **Node.js, Express, FastAPI**
+- 🗄️ Bases de datos: **MongoDB, SQL**
+- ⚙️ Herramientas: **Git, Terminal, Linux**
+- ☁️ Cloud & Deploy: **AWS, Vercel**
+
+---
+
+## ⚡ En qué estoy ahora
+
+- 📊 Mejorando mis skills en **Data Science & Machine Learning**
+- 🧠 Profundizando en **R y análisis estadístico**
+- 🚀 Construyendo proyectos con **Streamlit + datos reales**
+- 📈 Aplicando EDA y visualización en proyectos propios
+
+---
+
+## 🎯 Objetivo
+
+Busco formar parte de proyectos donde pueda combinar  
+**desarrollo, datos y creatividad** para generar impacto real.
+
+---
+
+<div align="center">
+  
+  <!-- Snake animation -->
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+
+  <br/>
+
   [![Alejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejotrenti&theme=blue_navy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
